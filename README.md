@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/k3k2Hu3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/k3k2Hu3.gif' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 Gif created by imgur. Screen recording by Zoom and uploaded videos to imgur. Used video to gif function by imgur to get the url.   
